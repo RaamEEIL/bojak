@@ -6,6 +6,9 @@ Please see the screenshot for the output of the test
 
 ## API question
 JWT login - not implemented 
+
 One liner conversion - not implemented
 
-What is implemented is the core functionality of the question.
+What is implemented is the core functionality of the question. Run the file "server.py" and browse to http://127.0.0.1:8010/docs#/ to run the test.
+
+In the screenshot I used the input provided in the question. You can see the output resulting from that input.
