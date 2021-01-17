@@ -15,6 +15,9 @@ In the screenshot I used the input provided in the question. You can see the out
 
 # General Comments
 Due to lack of time - I hope to get back to this tomorrow, the code is missing aduquate:
-## Docstrings
-## Comments
-## Logs
+
+<b>Docstrings</b>
+
+<b>Comments</b>
+
+<b>Logs</b>
